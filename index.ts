@@ -4,7 +4,7 @@ import abi from "./vaultAbi.json";
 
 const WSS_RPC_URL = process.env.WSS_RPC_URL; // => "secret"
 
-const GALXE_API_KEY = process.env.WSS_RPC_URL;
+const GALXE_API_KEY = process.env.GALXE_API_KEY;
 
 const contractAddress = "0x342800D4462Fc6624c82b1496545cC566308ccA9";
 
